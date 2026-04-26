@@ -1,0 +1,454 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "ref": "REF-BRND-001",
+      "nom": "Drap Coton Premium Blancheur",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap1.jpg",
+      "description": "Drap 100% coton blanc pur, douceur absolue"
+    },
+    {
+      "id": 2,
+      "ref": "REF-BRND-002",
+      "nom": "Drap Coton Premium Lin",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap2.jpg",
+      "description": "Teinte lin naturel pour une chambre apaisante"
+    },
+    {
+      "id": 3,
+      "ref": "REF-BRND-003",
+      "nom": "Drap Coton Premium Gris Perle",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap3.jpg",
+      "description": "Gris élégant, intemporel et raffiné"
+    },
+    {
+      "id": 4,
+      "ref": "REF-BRND-004",
+      "nom": "Drap Coton Premium Bleu Ciel",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap4.jpg",
+      "description": "Bleu doux pour une ambiance sereine"
+    },
+    {
+      "id": 5,
+      "ref": "REF-BRND-005",
+      "nom": "Drap Coton Premium Vert Sauge",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap5.jpg",
+      "description": "Vert sauge, tendance et naturel"
+    },
+    {
+      "id": 6,
+      "ref": "REF-BRND-006",
+      "nom": "Drap Coton Premium Beige",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap6.jpg",
+      "description": "Beige chaleureux, classique et cosy"
+    },
+    {
+      "id": 7,
+      "ref": "REF-BRND-007",
+      "nom": "Drap Coton Premium Rose Poudré",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap7.jpg",
+      "description": "Rose poudré, douceur et féminité"
+    },
+    {
+      "id": 8,
+      "ref": "REF-BRND-008",
+      "nom": "Drap Coton Premium Taupe",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap8.jpg",
+      "description": "Taupe élégant, sobre et moderne"
+    },
+    {
+      "id": 9,
+      "ref": "REF-BRND-009",
+      "nom": "Drap Coton Premium Ocre",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap9.jpg",
+      "description": "Ocre chaleureux, caractère et authenticité"
+    },
+    {
+      "id": 10,
+      "ref": "REF-BRND-010",
+      "nom": "Drap Coton Premium Bordeaux",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap10.jpg",
+      "description": "Bordeaux profond, luxe et intensité"
+    },
+    {
+      "id": 11,
+      "ref": "REF-BRND-011",
+      "nom": "Drap Coton Premium Moutarde",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap11.jpg",
+      "description": "Moutarde tendance, énergie et style"
+    },
+    {
+      "id": 12,
+      "ref": "REF-BRND-012",
+      "nom": "Drap Coton Premium Marine",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap12.jpg",
+      "description": "Bleu marine, chic et intemporel"
+    },
+    {
+      "id": 13,
+      "ref": "REF-BRND-013",
+      "nom": "Drap Coton Premium Terracotta",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap13.jpg",
+      "description": "Terracotta, chaleur méditerranéenne"
+    },
+    {
+      "id": 14,
+      "ref": "REF-BRND-014",
+      "nom": "Drap Coton Premium Sauge Foncé",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap14.jpg",
+      "description": "Vert sauge profond, élégance naturelle"
+    },
+    {
+      "id": 15,
+      "ref": "REF-BRND-015",
+      "nom": "Drap Coton Premium Lavande",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap15.jpg",
+      "description": "Lavande apaisante, douceur florale"
+    },
+    {
+      "id": 16,
+      "ref": "REF-BRND-016",
+      "nom": "Drap Coton Premium Ardoise",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap16.jpg",
+      "description": "Gris ardoise, contemporain et élégant"
+    },
+    {
+      "id": 17,
+      "ref": "REF-BRND-017",
+      "nom": "Drap Coton Premium Pêche",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap17.jpg",
+      "description": "Pêche douce, tendre et lumineuse"
+    },
+    {
+      "id": 18,
+      "ref": "REF-BRND-018",
+      "nom": "Drap Coton Premium Coton Brut",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap18.jpg",
+      "description": "Coton brut, authentique et naturel"
+    },
+    {
+      "id": 19,
+      "ref": "REF-BRND-019",
+      "nom": "Drap Coton Premium Charbon",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap19.jpg",
+      "description": "Noir charbon, mystérieux et chic"
+    },
+    {
+      "id": 20,
+      "ref": "REF-BRND-020",
+      "nom": "Drap Coton Premium Crème",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap20.jpg",
+      "description": "Crème délicat, douceur absolue"
+    },
+    {
+      "id": 21,
+      "ref": "REF-BRND-021",
+      "nom": "Drap Coton Premium Corail",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap21.jpg",
+      "description": "Corail éclatant, frais et dynamique"
+    },
+    {
+      "id": 22,
+      "ref": "REF-BRND-022",
+      "nom": "Drap Coton Premium Menthe",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap22.jpg",
+      "description": "Menthe rafraîchissante, légère et pure"
+    },
+    {
+      "id": 23,
+      "ref": "REF-BRND-023",
+      "nom": "Drap Coton Bronze",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap23.jpg",
+      "description": "Bronze lumineux, chaleur subtile"
+    },
+    {
+      "id": 24,
+      "ref": "REF-BRND-024",
+      "nom": "Drap Coton Ambre",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap24.jpg",
+      "description": "Ambre doré, élégance précieuse"
+    },
+    {
+      "id": 25,
+      "ref": "REF-BRND-025",
+      "nom": "Drap Coton Canelle",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap25.jpg",
+      "description": "Cannelle, épicé et chaleureux"
+    },
+    {
+      "id": 26,
+      "ref": "REF-BRND-026",
+      "nom": "Drap Coton Jade",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap26.jpg",
+      "description": "Jade, pierre précieuse et sérénité"
+    },
+    {
+      "id": 27,
+      "ref": "REF-BRND-027",
+      "nom": "Drap Coton Indigo",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap27.jpg",
+      "description": "Indigo profond, intense et authentique"
+    },
+    {
+      "id": 28,
+      "ref": "REF-BRND-028",
+      "nom": "Drap Coton Cobalt",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap28.jpg",
+      "description": "Bleu cobalt, vibrant et lumineux"
+    },
+    {
+      "id": 29,
+      "ref": "REF-BRND-029",
+      "nom": "Drap Coton Émeraude",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap29.jpg",
+      "description": "Vert émeraude, luxe et raffinement"
+    },
+    {
+      "id": 30,
+      "ref": "REF-BRND-030",
+      "nom": "Drap Coton Rubis",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap30.jpg",
+      "description": "Rouge rubis, passion et éclat"
+    },
+    {
+      "id": 31,
+      "ref": "REF-BRND-031",
+      "nom": "Drap Coton Sable",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap31.jpg",
+      "description": "Sable chaud, naturel et intemporel"
+    },
+    {
+      "id": 32,
+      "ref": "REF-BRND-032",
+      "nom": "Drap Coton Pervenche",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap32.jpg",
+      "description": "Pervenche douce, poétique et tendre"
+    },
+    {
+      "id": 33,
+      "ref": "REF-BRND-033",
+      "nom": "Drap Coton Améthyste",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap33.jpg",
+      "description": "Améthyste violette, mystique et élégante"
+    },
+    {
+      "id": 34,
+      "ref": "REF-BRND-034",
+      "nom": "Drap Coton Opale",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap34.jpg",
+      "description": "Opale nacrée, lumière et douceur"
+    },
+    {
+      "id": 35,
+      "ref": "REF-BRND-035",
+      "nom": "Drap Coton Topaze",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap35.jpg",
+      "description": "Topaze dorée, chaleur solaire"
+    },
+    {
+      "id": 36,
+      "ref": "REF-BRND-036",
+      "nom": "Drap Coton Obsidienne",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap36.jpg",
+      "description": "Noir obsidienne, profondeur élégante"
+    },
+    {
+      "id": 37,
+      "ref": "REF-BRND-037",
+      "nom": "Drap Coton Quartz",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap37.jpg",
+      "description": "Quartz rose, tendresse et apaisement"
+    },
+    {
+      "id": 38,
+      "ref": "REF-BRND-038",
+      "nom": "Drap Coton Glacier",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap38.jpg",
+      "description": "Bleu glacier, fraîcheur alpestre"
+    },
+    {
+      "id": 39,
+      "ref": "REF-BRND-039",
+      "nom": "Drap Coton Dune",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap39.jpg",
+      "description": "Beige dune, voyage et évasion"
+    },
+    {
+      "id": 40,
+      "ref": "REF-BRND-040",
+      "nom": "Drap Coton Forêt",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap40.jpg",
+      "description": "Vert forêt, nature profonde"
+    },
+    {
+      "id": 41,
+      "ref": "REF-BRND-041",
+      "nom": "Drap Coton Lagune",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap41.jpg",
+      "description": "Turquoise lagune, exotisme rafraîchissant"
+    },
+    {
+      "id": 42,
+      "ref": "REF-BRND-042",
+      "nom": "Drap Coton Crépiscule",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap42.jpg",
+      "description": "Pourpre crépuscule, ambiance feutrée"
+    },
+    {
+      "id": 43,
+      "ref": "REF-BRND-043",
+      "nom": "Drap Coton Aube",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap43.jpg",
+      "description": "Rose aube, premier jour tout en douceur"
+    },
+    {
+      "id": 44,
+      "ref": "REF-BRND-044",
+      "nom": "Drap Coton Horizon",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap44.jpg",
+      "description": "Bleu horizon, ligne d'évasion"
+    },
+    {
+      "id": 45,
+      "ref": "REF-BRND-045",
+      "nom": "Drap Coton Brume",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap45.jpg",
+      "description": "Gris brume, atmosphère cotonneuse"
+    },
+    {
+      "id": 46,
+      "ref": "REF-BRND-046",
+      "nom": "Drap Coton Étoile",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap46.jpg",
+      "description": "Bleu étoilé, magie et rêverie"
+    },
+    {
+      "id": 47,
+      "ref": "REF-BRND-047",
+      "nom": "Drap Coton Coquelicot",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap47.jpg",
+      "description": "Rouge coquelicot, champêtre et vibrant"
+    },
+    {
+      "id": 48,
+      "ref": "REF-BRND-048",
+      "nom": "Drap Coton Vanille",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap48.jpg",
+      "description": "Vanille crémeuse, douceur gourmande"
+    },
+    {
+      "id": 49,
+      "ref": "REF-BRND-049",
+      "nom": "Drap Coton Cacao",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap49.jpg",
+      "description": "Brun cacao, chaleur intense"
+    },
+    {
+      "id": 50,
+      "ref": "REF-BRND-050",
+      "nom": "Drap Coton Perle",
+      "prix": 8500,
+      "ancien_prix": 10000,
+      "image": "images/drap50.jpg",
+      "description": "Blanc perle, luxe discret et éclatant"
+    }
+  ]
+}
