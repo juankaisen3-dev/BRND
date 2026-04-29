@@ -3,452 +3,452 @@
     {
       "id": 1,
       "ref": "REF-BRND-001",
-      "nom": "Drap Coton Premium Blancheur",
+      "nom": "Modele BRND 001",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap1.jpg",
-      "description": "Drap 100% coton blanc pur, douceur absolue"
+      "description": "Parure bleue à grands motifs floraux rouges et orange, présentée dans sa housse verte."
     },
     {
       "id": 2,
       "ref": "REF-BRND-002",
-      "nom": "Drap Coton Premium Lin",
+      "nom": "Modele BRND 002",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap2.jpg",
-      "description": "Teinte lin naturel pour une chambre apaisante"
+      "description": "Parure à fond blanc avec petits motifs bleus et noirs, finition fraîche et légère."
     },
     {
       "id": 3,
       "ref": "REF-BRND-003",
-      "nom": "Drap Coton Premium Gris Perle",
+      "nom": "Modele BRND 003",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap3.jpg",
-      "description": "Gris élégant, intemporel et raffiné"
+      "description": "Parure turquoise à motifs clairs et touches colorées, ambiance vive et moderne."
     },
     {
       "id": 4,
       "ref": "REF-BRND-004",
-      "nom": "Drap Coton Premium Bleu Ciel",
+      "nom": "Modele BRND 004",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap4.jpg",
-      "description": "Bleu doux pour une ambiance sereine"
+      "description": "Parure bleu marine à motifs blancs et beige façon arabesque, rendu chic."
     },
     {
       "id": 5,
       "ref": "REF-BRND-005",
-      "nom": "Drap Coton Premium Vert Sauge",
+      "nom": "Modele BRND 005",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap5.jpg",
-      "description": "Vert sauge, tendance et naturel"
+      "description": "Parure bleu profond avec imprimés blancs contrastés, style élégant et marqué."
     },
     {
       "id": 6,
       "ref": "REF-BRND-006",
-      "nom": "Drap Coton Premium Beige",
+      "nom": "Modele BRND 006",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap6.jpg",
-      "description": "Beige chaleureux, classique et cosy"
+      "description": "Parure blanche à gros pois multicolores sur fond bleu et orange, très joyeuse."
     },
     {
       "id": 7,
       "ref": "REF-BRND-007",
-      "nom": "Drap Coton Premium Rose Poudré",
+      "nom": "Modele BRND 007",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap7.jpg",
-      "description": "Rose poudré, douceur et féminité"
+      "description": "Parure violette avec motif quadrillé noir et jaune, look graphique et original."
     },
     {
       "id": 8,
       "ref": "REF-BRND-008",
-      "nom": "Drap Coton Premium Taupe",
+      "nom": "Modele BRND 008",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap8.jpg",
-      "description": "Taupe élégant, sobre et moderne"
+      "description": "Parure à pois multicolores, fond clair avec bordures bleues et orange."
     },
     {
       "id": 9,
       "ref": "REF-BRND-009",
-      "nom": "Drap Coton Premium Ocre",
+      "nom": "Modele BRND 009",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap9.jpg",
-      "description": "Ocre chaleureux, caractère et authenticité"
+      "description": "Parure beige et crème au rendu sobre, idéale pour une chambre douce."
     },
     {
       "id": 10,
       "ref": "REF-BRND-010",
-      "nom": "Drap Coton Premium Bordeaux",
+      "nom": "Modele BRND 010",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap10.jpg",
-      "description": "Bordeaux profond, luxe et intensité"
+      "description": "Deux modèles visibles : beige floral et rose, pour une ambiance fleurie."
     },
     {
       "id": 11,
       "ref": "REF-BRND-011",
-      "nom": "Drap Coton Premium Moutarde",
+      "nom": "Modele BRND 011",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap11.jpg",
-      "description": "Moutarde tendance, énergie et style"
+      "description": "Parure turquoise à fleurs roses et blanches, fraîche et lumineuse."
     },
     {
       "id": 12,
       "ref": "REF-BRND-012",
-      "nom": "Drap Coton Premium Marine",
+      "nom": "Modele BRND 012",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap12.jpg",
-      "description": "Bleu marine, chic et intemporel"
+      "description": "Parure vert turquoise à imprimé floral rose et blanc, style doux."
     },
     {
       "id": 13,
       "ref": "REF-BRND-013",
-      "nom": "Drap Coton Premium Terracotta",
+      "nom": "Modele BRND 013",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap13.jpg",
-      "description": "Terracotta, chaleur méditerranéenne"
+      "description": "Parure sombre à motifs dorés baroques, effet luxueux et travaillé."
     },
     {
       "id": 14,
       "ref": "REF-BRND-014",
-      "nom": "Drap Coton Premium Sauge Foncé",
+      "nom": "Modele BRND 014",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap14.jpg",
-      "description": "Vert sauge profond, élégance naturelle"
+      "description": "Parure camel à grandes fleurs jaunes et blanches, ton chaud et naturel."
     },
     {
       "id": 15,
       "ref": "REF-BRND-015",
-      "nom": "Drap Coton Premium Lavande",
+      "nom": "Modele BRND 015",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap15.jpg",
-      "description": "Lavande apaisante, douceur florale"
+      "description": "Parure gris-bleu clair à petits motifs rouges, rendu discret et tendre."
     },
     {
       "id": 16,
       "ref": "REF-BRND-016",
-      "nom": "Drap Coton Premium Ardoise",
+      "nom": "Modele BRND 016",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap16.jpg",
-      "description": "Gris ardoise, contemporain et élégant"
+      "description": "Parure rose fuchsia à grands motifs floraux, très lumineuse."
     },
     {
       "id": 17,
       "ref": "REF-BRND-017",
-      "nom": "Drap Coton Premium Pêche",
+      "nom": "Modele BRND 017",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap17.jpg",
-      "description": "Pêche douce, tendre et lumineuse"
+      "description": "Parure gris clair à imprimé floral rose, douce et romantique."
     },
     {
       "id": 18,
       "ref": "REF-BRND-018",
-      "nom": "Drap Coton Premium Coton Brut",
+      "nom": "Modele BRND 018",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap18.jpg",
-      "description": "Coton brut, authentique et naturel"
+      "description": "Parure rose intense à motifs fleuris, idéale pour une chambre colorée."
     },
     {
       "id": 19,
       "ref": "REF-BRND-019",
-      "nom": "Drap Coton Premium Charbon",
+      "nom": "Modele BRND 019",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap19.jpg",
-      "description": "Noir charbon, mystérieux et chic"
+      "description": "Parure bleue à fleurs rouges et orange, visuel dynamique et chaleureux."
     },
     {
       "id": 20,
       "ref": "REF-BRND-020",
-      "nom": "Drap Coton Premium Crème",
+      "nom": "Modele BRND 020",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap20.jpg",
-      "description": "Crème délicat, douceur absolue"
+      "description": "Parure camel à motifs floraux jaunes et blancs, style chaleureux."
     },
     {
       "id": 21,
       "ref": "REF-BRND-021",
-      "nom": "Drap Coton Premium Corail",
+      "nom": "Modele BRND 021",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap21.jpg",
-      "description": "Corail éclatant, frais et dynamique"
+      "description": "Modèle clair à pois multicolores, bordures bleues et orange."
     },
     {
       "id": 22,
       "ref": "REF-BRND-022",
-      "nom": "Drap Coton Premium Menthe",
+      "nom": "Modele BRND 022",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap22.jpg",
-      "description": "Menthe rafraîchissante, légère et pure"
+      "description": "Parure beige et crème sobre, avec oreillers assortis au ton naturel."
     },
     {
       "id": 23,
       "ref": "REF-BRND-023",
-      "nom": "Drap Coton Bronze",
+      "nom": "Modele BRND 023",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap23.jpg",
-      "description": "Bronze lumineux, chaleur subtile"
+      "description": "Parure gris-bleu clair à petits imprimés rouges, style calme et délicat."
     },
     {
       "id": 24,
       "ref": "REF-BRND-024",
-      "nom": "Drap Coton Ambre",
+      "nom": "Modele BRND 024",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap24.jpg",
-      "description": "Ambre doré, élégance précieuse"
+      "description": "Parure camel florale avec grandes fleurs jaunes et blanches."
     },
     {
       "id": 25,
       "ref": "REF-BRND-025",
-      "nom": "Drap Coton Canelle",
+      "nom": "Modele BRND 025",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap25.jpg",
-      "description": "Cannelle, épicé et chaleureux"
+      "description": "Assortiment de parures visibles, avec motifs fleuris bleus, camel et colorés."
     },
     {
       "id": 26,
       "ref": "REF-BRND-026",
-      "nom": "Drap Coton Jade",
+      "nom": "Modele BRND 026",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap26.jpg",
-      "description": "Jade, pierre précieuse et sérénité"
+      "description": "Parure gris beige à motif feuillage et fleurs, effet doux et raffiné."
     },
     {
       "id": 27,
       "ref": "REF-BRND-027",
-      "nom": "Drap Coton Indigo",
+      "nom": "Modele BRND 027",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap27.jpg",
-      "description": "Indigo profond, intense et authentique"
+      "description": "Parure bleue à grandes fleurs rouges et orange, emballage vert Jimmy."
     },
     {
       "id": 28,
       "ref": "REF-BRND-028",
-      "nom": "Drap Coton Cobalt",
+      "nom": "Modele BRND 028",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap28.jpg",
-      "description": "Bleu cobalt, vibrant et lumineux"
+      "description": "Parure blanche à petits motifs foncés sur base bleue, style frais."
     },
     {
       "id": 29,
       "ref": "REF-BRND-029",
-      "nom": "Drap Coton Émeraude",
+      "nom": "Modele BRND 029",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap29.jpg",
-      "description": "Vert émeraude, luxe et raffinement"
+      "description": "Parure noire à motifs blancs et gris, contraste sobre et élégant."
     },
     {
       "id": 30,
       "ref": "REF-BRND-030",
-      "nom": "Drap Coton Rubis",
+      "nom": "Modele BRND 030",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap30.jpg",
-      "description": "Rouge rubis, passion et éclat"
+      "description": "Parure bleu marine à motifs blancs et beige, inspiration géométrique."
     },
     {
       "id": 31,
       "ref": "REF-BRND-031",
-      "nom": "Drap Coton Sable",
+      "nom": "Modele BRND 031",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap31.jpg",
-      "description": "Sable chaud, naturel et intemporel"
+      "description": "Parure claire à pois multicolores, esprit gai et familial."
     },
     {
       "id": 32,
       "ref": "REF-BRND-032",
-      "nom": "Drap Coton Pervenche",
+      "nom": "Modele BRND 032",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap32.jpg",
-      "description": "Pervenche douce, poétique et tendre"
+      "description": "Parure violette à motif quadrillé noir et jaune, style graphique."
     },
     {
       "id": 33,
       "ref": "REF-BRND-033",
-      "nom": "Drap Coton Améthyste",
+      "nom": "Modele BRND 033",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap33.jpg",
-      "description": "Améthyste violette, mystique et élégante"
+      "description": "Parure à gros pois multicolores avec fond clair, bleu et orange."
     },
     {
       "id": 34,
       "ref": "REF-BRND-034",
-      "nom": "Drap Coton Opale",
+      "nom": "Modele BRND 034",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap34.jpg",
-      "description": "Opale nacrée, lumière et douceur"
+      "description": "Parure beige et crème, modèle neutre pour une déco apaisée."
     },
     {
       "id": 35,
       "ref": "REF-BRND-035",
-      "nom": "Drap Coton Topaze",
+      "nom": "Modele BRND 035",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap35.jpg",
-      "description": "Topaze dorée, chaleur solaire"
+      "description": "Parure turquoise fleurie rose et blanche, rendu frais et coloré."
     },
     {
       "id": 36,
       "ref": "REF-BRND-036",
-      "nom": "Drap Coton Obsidienne",
+      "nom": "Modele BRND 036",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap36.jpg",
-      "description": "Noir obsidienne, profondeur élégante"
+      "description": "Parure camel à fleurs jaunes et blanches, ambiance chaleureuse."
     },
     {
       "id": 37,
       "ref": "REF-BRND-037",
-      "nom": "Drap Coton Quartz",
+      "nom": "Modele BRND 037",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap37.jpg",
-      "description": "Quartz rose, tendresse et apaisement"
+      "description": "Parure bleu ciel à fleurs rouges, avec touches roses sur la photo."
     },
     {
       "id": 38,
       "ref": "REF-BRND-038",
-      "nom": "Drap Coton Glacier",
+      "nom": "Modele BRND 038",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap38.jpg",
-      "description": "Bleu glacier, fraîcheur alpestre"
+      "description": "Parure gris beige à motifs naturels, style doux et élégant."
     },
     {
       "id": 39,
       "ref": "REF-BRND-039",
-      "nom": "Drap Coton Dune",
+      "nom": "Modele BRND 039",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap39.jpg",
-      "description": "Beige dune, voyage et évasion"
+      "description": "Parure violette à carreaux foncés et jaunes, look original."
     },
     {
       "id": 40,
       "ref": "REF-BRND-040",
-      "nom": "Drap Coton Forêt",
+      "nom": "Modele BRND 040",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap40.jpg",
-      "description": "Vert forêt, nature profonde"
+      "description": "Parure bleu ciel à motifs floraux rouges, visuel frais et lumineux."
     },
     {
       "id": 41,
       "ref": "REF-BRND-041",
-      "nom": "Drap Coton Lagune",
+      "nom": "Modele BRND 041",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap41.jpg",
-      "description": "Turquoise lagune, exotisme rafraîchissant"
+      "description": "Parure gris clair à fleurs roses, finition douce et féminine."
     },
     {
       "id": 42,
       "ref": "REF-BRND-042",
-      "nom": "Drap Coton Crépiscule",
+      "nom": "Modele BRND 042",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap42.jpg",
-      "description": "Pourpre crépuscule, ambiance feutrée"
+      "description": "Parure bleu clair à fleurs rouges, modèle coloré et accueillant."
     },
     {
       "id": 43,
       "ref": "REF-BRND-043",
-      "nom": "Drap Coton Aube",
+      "nom": "Modele BRND 043",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap43.jpg",
-      "description": "Rose aube, premier jour tout en douceur"
+      "description": "Parure bleu foncé à imprimés blancs, contraste net et élégant."
     },
     {
       "id": 44,
       "ref": "REF-BRND-044",
-      "nom": "Drap Coton Horizon",
+      "nom": "Modele BRND 044",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap44.jpg",
-      "description": "Bleu horizon, ligne d'évasion"
+      "description": "Parure blanche à pois multicolores, bordures bleues et orange."
     },
     {
       "id": 45,
       "ref": "REF-BRND-045",
-      "nom": "Drap Coton Brume",
+      "nom": "Modele BRND 045",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap45.jpg",
-      "description": "Gris brume, atmosphère cotonneuse"
+      "description": "Parure bleu marine à motifs blancs et beige, style chic."
     },
     {
       "id": 46,
       "ref": "REF-BRND-046",
-      "nom": "Drap Coton Étoile",
+      "nom": "Modele BRND 046",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap46.jpg",
-      "description": "Bleu étoilé, magie et rêverie"
+      "description": "Parure blanche à petits motifs bleus et noirs sur fond bleu."
     },
     {
       "id": 47,
       "ref": "REF-BRND-047",
-      "nom": "Drap Coton Coquelicot",
+      "nom": "Modele BRND 047",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap47.jpg",
-      "description": "Rouge coquelicot, champêtre et vibrant"
+      "description": "Assortiment de modèles emballés, avec plusieurs motifs fleuris et colorés."
     },
     {
       "id": 48,
       "ref": "REF-BRND-048",
-      "nom": "Drap Coton Vanille",
+      "nom": "Modele BRND 048",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap48.jpg",
-      "description": "Vanille crémeuse, douceur gourmande"
+      "description": "Parure bleu clair à fleurs rouges et roses, effet doux et frais."
     },
     {
       "id": 49,
       "ref": "REF-BRND-049",
-      "nom": "Drap Coton Cacao",
+      "nom": "Modele BRND 049",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap49.jpg",
-      "description": "Brun cacao, chaleur intense"
+      "description": "Parure gris-bleu clair à petits motifs rouges, sobre et délicate."
     },
     {
       "id": 50,
       "ref": "REF-BRND-050",
-      "nom": "Drap Coton Perle",
+      "nom": "Modele BRND 050",
       "prix": 8500,
       "ancien_prix": 10000,
       "image": "images/drap50.jpg",
-      "description": "Blanc perle, luxe discret et éclatant"
+      "description": "Parure beige et crème au style simple, propre et lumineux."
     }
   ]
 }
